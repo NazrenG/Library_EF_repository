@@ -1,0 +1,12 @@
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\bin\Debug\net6.0\Library_Model.deps.json
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\bin\Debug\net6.0\Library_Model.dll
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\bin\Debug\net6.0\Library_Model.pdb
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.csproj.AssemblyReference.cache
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.AssemblyInfoInputs.cache
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.AssemblyInfo.cs
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.csproj.CoreCompileInputs.cache
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.dll
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\refint\Library_Model.dll
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\Library_Model.pdb
+C:\Users\Quliy_iu18\source\repos\Solution1\Library_Model\obj\Debug\net6.0\ref\Library_Model.dll
